@@ -52,7 +52,7 @@ new Swiper('.swiper-container',{
             slidesPerView: 3,
         },
         1048:{
-            slidesPerView: 4,
+            slidesPerView: 5,
         },
     },
     freeMode: true,
