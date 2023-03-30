@@ -552,7 +552,7 @@ body.lock{
     background-image: url(../img/swiper/prev.jpg);
     background-repeat: no-repeat;
     background-position: center;
-    background-size: contain;
+    background-size: auto;
     position: absolute;
     display: inline-block;
     top: auto;
@@ -563,7 +563,7 @@ body.lock{
     background-image: url(../img/swiper/next.jpg);
     background-repeat: no-repeat;
     background-position: center;
-    background-size: contain;
+    background-size: auto;
     position: absolute;
     display: inline-block;
     top: auto;
