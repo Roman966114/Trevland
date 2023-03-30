@@ -479,6 +479,12 @@ body.lock{
     .page__offers {
         padding: 0 0 50px;
     }
+    .swiper-button-prev{
+    left: 20%;
+    }
+.swiper-button-next{
+    right: 20%;
+    }
 }
 .offers__container {
     min-width: 0;
@@ -556,7 +562,7 @@ body.lock{
     position: absolute;
     display: inline-block;
     top: auto;
-    left: 25%;
+    left: 35%;
     z-index: 3;
 }
 .swiper-button-next{
@@ -567,7 +573,7 @@ body.lock{
     position: absolute;
     display: inline-block;
     top: auto;
-    right: 25%;
+    right: 35%;
     z-index: 3;
 }
 .swiper-button-next::after, .swiper-button-prev::after{
