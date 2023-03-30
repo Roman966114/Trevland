@@ -32,7 +32,7 @@ new Swiper('.swiper-container',{
     },
     spaceBetween: 10,
    autoplay:{
-        delay:1500,
+        delay:2000,
         stopOnLastSlide: false,
         disableOnInteraction: false,
     },
@@ -51,7 +51,10 @@ new Swiper('.swiper-container',{
         900:{
             slidesPerView: 3,
         },
-        1048:{
+        1100:{
+            slidesPerView: 4,
+        },
+        1450:{
             slidesPerView: 5,
         },
     },
