@@ -32,7 +32,7 @@ new Swiper('.swiper-container',{
     },
     spaceBetween: 10,
    autoplay:{
-        delay:2000,
+        delay:2500,
         stopOnLastSlide: false,
         disableOnInteraction: false,
     },
